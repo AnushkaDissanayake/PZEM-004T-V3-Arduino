@@ -1,5 +1,5 @@
 #include <PZEM004Tv30.h>
-PZEM004Tv30 pzem(6, 7); //6-Rx, 7-Tx Arduino pin D6 should be connected to Tx pin of pzem_v3 
+PZEM004Tv30 pzem(6, 7); //6-Rx, 7-Tx Arduino pin D6 should be connected to Tx pin of pzem-004t_v3
 
 
 void setup() {
